@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalia-sevilha&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="nathalia" /></p>
+
 <!--
 **Nathalia-Sevilha/Nathalia-Sevilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
